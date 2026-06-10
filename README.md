@@ -4,14 +4,15 @@ Repositório com materiais, links úteis, exemplos de código e atividades da di
 
 ## 📚 Materiais da disciplina
 
-- [Aula 01 - Introdução à Programação](materiais/aula-01.pdf)
-- [Aula 02 - Algoritmos e Lógica](materiais/aula-02.pdf)
+- [VS Code: instalação e ativação do Python](materiais/InstalandoVSCode.pdf)
 
 ## 🔗 Links úteis
 
 - [Portugol Webstudio](https://portugol.dev/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code - para download](https://code.visualstudio.com/)
+- [Visual Studio Code - online](https://vscode.dev)
 - [Python Online](https://www.programiz.com/python-programming/online-compiler/)
+- [W3Schools](https://www.w3schools.com/programming/index.php)
 
 ## 💻 Exemplos de código
 
