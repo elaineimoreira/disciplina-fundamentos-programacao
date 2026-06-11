@@ -2,17 +2,15 @@
 
 Repositório com materiais, links úteis, exemplos de código e atividades da disciplina.
 
-## 📚 Materiais da disciplina
+## 📚🔗 Materiais da disciplina e Links úteis
 
-- [VS Code: instalação e ativação do Python](materiais/InstalandoVSCode.pdf)
-
-## 🔗 Links úteis
-
-- [Portugol Webstudio](https://portugol.dev/)
+- [Portugol Webstudio](https://portugol.dev/) -> Utilize para praticar lógica e desenvolver raciocínio computacional
+- [W3Schools](https://www.w3schools.com/programming/index.php) -> Utilize nesta disciplina para se aprofundar em conceitos de programação
+- [Visual Studio Code - instalação e ativação do Python](materiais/InstalandoVSCode.pdf)
 - [Visual Studio Code - para download](https://code.visualstudio.com/)
 - [Visual Studio Code - online](https://vscode.dev)
-- [Python Online](https://www.programiz.com/python-programming/online-compiler/)
-- [W3Schools](https://www.w3schools.com/programming/index.php)
+- [Python Online](https://www.online-python.com/)
+
 
 ## 💻 Exemplos de código
 
